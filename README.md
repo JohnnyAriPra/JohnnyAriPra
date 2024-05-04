@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Johnny Arica Prado known as @JohnnyAriPra
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java and English
+- 👀 I’m interested Front End programming
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me --> enrique.arica2004@gmail.com
 
